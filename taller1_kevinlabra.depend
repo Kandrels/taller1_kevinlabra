@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1687396146 source:c:\users\labra\onedrive\escritorio\t1_cpyd_mcristi\taller1_kevinlabra\main.cpp
+	<iostream>
+	<iomanip>
+	<random>
+	<chrono>
+	"funciones.h"
+
+1687377741 c:\users\labra\onedrive\escritorio\t1_cpyd_mcristi\taller1_kevinlabra\funciones.h
+
